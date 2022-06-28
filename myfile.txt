@@ -1,2 +1,3 @@
 file for commit1
 change for commit2
+add line for commit3
